@@ -181,7 +181,7 @@ inference.py
 notebooks/
   01_data_exploration_preprocessing.ipynb
   02_training.ipynb
-  03_evaluation.ipynb
+
 
 configs/
   training_config.yaml
